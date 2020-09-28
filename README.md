@@ -12,4 +12,4 @@
 
 ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamBjork&show_icons=true&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
