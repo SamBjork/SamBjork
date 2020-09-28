@@ -1,7 +1,7 @@
 <h2 align="center"> Hello World, SamBjork here! 👋 </h2>
 
 - ⌨ I’m currently working on: Developing the website for MBIT AB, also some hobby projects including a React Native app.
-- 🌱 I’m currently learning: Cloud Services in Azure in School and Python outside of school.
+- 🌱 I’m currently learning: Cloud Services in Azure in school and Python outside of school.
 - 📫 You can reach me at: samuel.bjorkqvist@gmail.com
 - ⚡ Fun fact: I was aiming to become an actor before I realized the programming path could be nice to walk.
 - 🥅 My main goals are to finish my fullstack education and when the time is right, start my own company. 
