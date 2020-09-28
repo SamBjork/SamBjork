@@ -1,4 +1,4 @@
-<h2> Hello World, SamBjork here! 👋 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"></h2>
+<h2> Hello World, SamBjork here! 👋 </h2>
 
 - ⌨ I’m currently working on developing the website for MBIT AB, also some hobby projects including a React Native app.
 - 🌱 I’m currently learning Cloud Services in Azure in School and Python outside of school.
