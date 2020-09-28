@@ -10,6 +10,6 @@
   <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
-![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamBjork&show_icons=true&hide_border=true)
+<div align="center"> ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamBjork&show_icons=true&hide_border=true)</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
+<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)</div>
