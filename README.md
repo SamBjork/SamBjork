@@ -6,17 +6,16 @@
 - ⚡ Fun fact: I was aiming to become an actor before I realized the programming path could be nice to walk.
 - 🥅 My main goals are to finish my fullstack education and when the time is right, start my own company. 
 
+### ☕ Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samuel-b-954622a9/)
+
+
 <p align="center">
   <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
-
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=sambjork&show_icons=true&hide_border=true)
-
-### ☕ Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samuel-b-954622a9/)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
