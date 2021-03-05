@@ -17,6 +17,6 @@
 
 ### ☕ Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samuel-b-954622a9/)
-[![LinkedIn](https://img.shields.io/badge/Website-dsve.se-blue?style=flat&logo=appveyor)](https://www.dsve.se/)
+
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
