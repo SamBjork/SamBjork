@@ -11,3 +11,12 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
+
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=sambjork&show_icons=true&hide_border=true)
+
+### ☕ Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samuel-b-954622a9/)
+[![LinkedIn](https://img.shields.io/badge/Website-dsve.se-blue?style=flat&logo=appveyor)](https://www.dsve.se/)
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
