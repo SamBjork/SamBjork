@@ -9,13 +9,12 @@
 ### ☕ Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samuel-b-954622a9/)
 
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=sambjork&show_icons=true&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
 
 <p align="center">
   <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
-
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=sambjork&show_icons=true&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sambjork)](https://github.com/sambjork/github-profile-trophy)
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
