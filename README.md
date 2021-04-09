@@ -3,7 +3,7 @@
 - ⌨ I’m currently working on: Developing devices for IoT and making a UI for the current project. Developing the website for MBIT AB, also some hobby projects including a React Native app.
 - 🌱 I’m currently doing my thesis on a comparisson between Python and the Anvil Works tool and .Net/ Blazor.
 - 📫 You can reach me at: samuel.bjorkqvist@gmail.com
-- ⚡ Fun fact: I was aiming to become an actor before I realized the programming path could be nice to walk.
+- ⚡ Fun fact: I was driving an ice cream truck and aiming to become an actor before I realized the developer path could be a nice one to walk.
 - 🥅 My main goals are to finish my fullstack education and when the time is right, start my own company. 
 
 ### ☕ Get in touch
