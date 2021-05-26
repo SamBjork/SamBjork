@@ -1,6 +1,6 @@
 <h2 align="center"> Hello World, SamBjork here! 👋 </h2>
 
-- ⌨ I’m currently working on: Developing the website for MBIT AB, also some hobby projects including a Xamarin app and Webapp in Blazor.
+- ⌨ I’m currently working on: Developing the website mbitgbg.se, also developing some hobby projects including a Xamarin app and Webapp in Blazor.
 - 🌱 I’m currently searching for a fulltime job, working part-time for MBIT i Göteborg AB along with working on my hobby projects.
 - 📫 You can reach me at: samuel.bjorkqvist@gmail.com
 - ⚡ Fun fact: I was driving an ice cream truck and aiming to become an actor before I realized the developer path could be a nice one to walk.
