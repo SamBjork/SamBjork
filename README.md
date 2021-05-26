@@ -17,4 +17,3 @@
   <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
