@@ -1,10 +1,10 @@
 <h2 align="center"> Hello World, SamBjork here! 👋 </h2>
 
-- ⌨ I’m currently working on: Developing devices for IoT and making a UI for the current project. Developing the website for MBIT AB, also some hobby projects including a React Native app.
-- 🌱 I’m currently doing my thesis on a comparisson between Python and the Anvil Works tool and .Net/ Blazor.
+- ⌨ I’m currently working on: Developing the website for MBIT AB, also some hobby projects including a Xamarin app and Webapp in Blazor.
+- 🌱 I’m currently searching for jobs, working part-time for MBIT i Göteborg AB along with working on my hobby projects.
 - 📫 You can reach me at: samuel.bjorkqvist@gmail.com
 - ⚡ Fun fact: I was driving an ice cream truck and aiming to become an actor before I realized the developer path could be a nice one to walk.
-- 🥅 My main goals are to finish my fullstack education and when the time is right, start my own company. 
+- 🥅 My main goals are to get a fun and fulfilling job and in time become a tech lead, scrum master and on the side launch my own apps and services. 
 
 ### ☕ Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samuel-b-954622a9/)
