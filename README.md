@@ -1,10 +1,10 @@
 <h2 align="center"> Hello World, SamBjork here! 👋 </h2>
 
-- ⌨ I’m currently working on: Developing the website mbitgbg.se, also developing some hobby projects including a Xamarin app my WebApp JobSearchAssistant.
-- 🌱 I’m currently working part-time for MBIT i Göteborg AB along with working on my hobby projects.
+- ⌨ Projects I’m currently doing: Developing the my own website bjorkweb, also learning Xamarin and developing my WebApp JobSearchAssistant.
+- 🌱 I’m currently working full-time at Svenska Spel as a Fullstack Developer, along with working on my hobby projects.
 - 📫 You can reach me at: samuel.bjorkqvist@gmail.com
-- ⚡ Fun fact: I was driving an ice cream truck and aiming to become an actor before I realized the developer path could be a nice one to walk.
-- 🥅 My main goals are to get a fun and fulfilling job and in time become a tech lead, scrum master and on the side launch my own apps and services. 
+- ⚡ Fun fact: I was driving the swedish Hemglass ice cream truck before I hopped on to the developer train.
+- 🥅 My main goals within IT are to have fun and get inspired by my worklife and in time launch my own business where I create apps and services. 
 
 ### ☕ Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samuel-b-954622a9/)
