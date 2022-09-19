@@ -3,7 +3,7 @@
 - ⌨ Projects I’m currently working on: On the side of my job I'm developing a discord bot and creating websites.
 - 🌱 I’m currently working full-time at Svenska Spel as a Fullstack Developer, along with working on my hobby projects.
 - 📫 You can reach me at: samuel.bjorkqvist@gmail.com
-- ⚡ Fun fact: I was driving the swedish Hemglass ice cream truck before I hopped on to the developer train.
+- ⚡ Fun fact: I was driving the Swedish "Hemglass" ice cream truck before I hopped on the developer train.
 - 🥅 My main goals within IT are to have fun and get inspired by my worklife and in time launch my own business where I create apps and services. 
 
 ### ☕ Get in touch
