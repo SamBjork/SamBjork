@@ -1,6 +1,6 @@
 <h2 align="center"> Hello World, SamBjork here! 👋 </h2>
 
-- ⌨ Projects I’m currently working on: On the side of my job I'm developing a discord bot and creating websites.
+- ⌨ Projects I’m currently working on: In my sparetime I'm developing bots, games and websites.
 - 🌱 I’m currently working full-time at Svenska Spel as a Fullstack Developer, along with working on my hobby projects.
 - 📫 You can reach me at: samuel.bjorkqvist@gmail.com
 - ⚡ Fun fact: I was driving the Swedish "Hemglass" ice cream truck before I hopped on the developer train.
